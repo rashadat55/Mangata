@@ -1,6 +1,6 @@
 Mangata
 {
-  "name": "reshadet",
+  "name": "reshadetcabbar",
   "website": "https://www.github.com/rashadat55",
   "description": "RuesCommunity",
   "logo": "https://i.ibb.co/25xFXmp/image.png",
